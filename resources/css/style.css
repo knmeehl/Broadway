@@ -45,7 +45,16 @@ p {
 }
 
 #footer {
-  font-size: 11px;
   color: white;
+  text-align: left;
   background-color:dimgray;
 }
+span {
+  font-size: 11px;
+  color: white;
+}
+
+#footer p a {
+  font-size: 18px;
+  color: white;
+  text-decoration: underline;
